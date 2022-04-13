@@ -63,8 +63,10 @@ Features that are planned to develop in the future:
 In case you have questions or any kind of issues do not hesitate to contact me at
 
 - [Email] (hghovakimyan@outlool.com)
-- [LinkedIn] (https://www.linkedin.com/in/hayk-hovakimyan-b81600b2/)
-- [FaceBook] (https://www.facebook.com/Mr.Hovakimyan/)
+- *[LinkedIn profile <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fillustration-of-linkedin-icon-on-transparent-background-png%2F&psig=AOvVaw0qU22APhDECdNy1V3pnHrO&ust=1649928227453000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCLCXw-LbkPcCFQAAAAAdAAAAABAL" width=30px/>](https://www.linkedin.com/in/hayk-hovakimyan-b81600b2/)* 
+- *[GitHub profile <img src="https://pics.freeicons.io/uploads/icons/png/3345023101530077752-512.png" width=30px/>](https://github.com/MrHovakimyan)* 
+
+- *[FaceBook profile <img src="https://img.icons8.com/plasticine/2x/facebook-new.png" width=30px/> ](https://www.facebook.com/Mr.Hovakimyan/)* 
 
 ## Authors and acknowledgment
 
